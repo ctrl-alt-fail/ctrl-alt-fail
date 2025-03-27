@@ -1,15 +1,54 @@
-<h2>Junior Helpdesk Analyst | Data Enthusiast | Cloud Novice</h2>
-<p>Harnessing Data and Technology to Drive Smarter Decisions</p>
-<h3>🚀 Languages and Tools I Use</h3>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://api.iconify.design/logos-hugo.svg" style="display: inline-block;"><img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h3>⚡️ Where to find me</h3>
-<p><a target="_blank" href="https://www.linkedin.com/in/josephsfleet" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+## Hey, I'm Joseph 👋🏻
+**Junior IT Support Analyst | Data Automation Enthusiast | Linux Tinkerer**  
+
+Welcome to my corner of the internet.
+
+---
+
+### 👨‍💻 About Me
+
+- 💼 Currently: Junior Helpdesk Analyst @ United Oilseeds  
+- 🧠 Skillset: Python, SQL, Excel, Bash, Power BI, Salesforce, Azure, Active Directory  
+- 🐧 Linux lover: Daily driver for personal systems (VPS, NAS, desktop)  
+- 🛠️ Automation addict: From reporting pipelines to incident response  
+- 🧪 Learning goals: Cloud automation, InfoSec, and data-driven DevOps  
+
+---
+
+### 🔧 Featured Project
+
+#### [infodump+](https://github.com/ctrl-alt-fail/infodump-plus)
+*A lightweight Linux diagnostics tool for sysadmins, devs, and curious SREs.*  
+Rewritten from Bash to Python, `infodump+` provides:
+
+- ✅ CPU, memory, disk, and network stats at a glance  
+- ✅ Top resource-consuming processes  
+- ✅ Human-readable CLI output  
+- ✅ Minimal dependencies, maximum clarity
+
+Whether you're spinning up a new node or troubleshooting a sluggish box, `infodump+` has your back.  
+
+---
+
+### 📊 Recent Work Highlights
+
+- ⏱️ Reduced manual reporting overhead by 80% using SQL & Excel automation  
+- 🐍 Built internal Python tools (Streamlit, Pandas) to clean, transform, and visualize operational data  
+- 📈 Designed Power BI dashboards, including a real-time IoT metrics project  
+- 🔐 Assisted in Active Directory security hardening and cloud config reviews  
+- 🧰 Delivered Tier 1/2 support in a fast-paced, SLA-bound environment
+
+---
+
+### 📚 Certs & Study Goals
+
+- ✅ CompTIA A+, Net+, Linux+  
+- ✅ Azure Fundamentals (AZ-900)    
+- 🧠 Google IT Automation w/ Python, Google AI Essentials
+
+- Security+ = In Progress
+
+---
+
+> "I'm not a real programmer. I throw together things until it works then I move on. The real programmers will say Yeah it works but you're leaking memory everywhere. Perhaps we should fix that. I'll just restart Apache every 10 requests." - Rasmus Lerdorf
+
